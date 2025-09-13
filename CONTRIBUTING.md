@@ -4,9 +4,9 @@ Cảm ơn bạn đã quan tâm đến việc đóng góp cho dự án của chú
 
 ## Quy trình Đóng góp
 1. Fork dự án này.
-2. Tạo một nhánh mới: `git checkout -b my-new-feature`.
-3. Thực hiện các thay đổi của bạn và commit: `git commit -m 'Thêm một tính năng mới'`.
-4. Push nhánh lên GitHub: `git push origin my-new-feature`.
+2. Tạo một nhánh mới: `git checkout -b my-feature`.
+3. Thực hiện các thay đổi của bạn và commit: `git commit -m 'Thêm tính năng mới'`.
+4. Push nhánh lên GitHub: `git push origin my-feature`.
 5. Tạo một Pull Request.
 
 ## Các loại Đóng góp
